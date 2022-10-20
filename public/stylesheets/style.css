@@ -33,6 +33,6 @@ button {
 }
 
 button:hover {
-  background: grey;
+  background: rgb(80, 79, 79);
   color: white;
 }

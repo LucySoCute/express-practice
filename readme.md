@@ -1,13 +1,10 @@
-#express 練習
----
+# express 練習
 此專案使用 express 搭配 express-handlebars
 
 ## Features
----
 點擊導覽列切換路由，顯示不同頁面內容
 
 ## Environment
----
 * express: 4.18.2
 * express-handlebars: 6.0.6
 * nodemon: 2.0.20

@@ -6,7 +6,7 @@
 
 ## Environment
 * express: 4.18.2
-* express-handlebars: 6.0.6
+* express-handlebars: 3.0.0
 * nodemon: 2.0.20
 
 ## Install process
